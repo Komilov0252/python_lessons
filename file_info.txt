@@ -1,0 +1,5 @@
+{
+  "Abrorbek": ["c++", "python", "c"],
+  "Diyorbek": ["csgo", "java"],
+  "Anvar": ["Java, JAVASCRIPT", "nodj.s"]
+}
